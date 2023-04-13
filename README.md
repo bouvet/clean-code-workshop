@@ -16,7 +16,7 @@ In this part you are supposed to write a program in your desired IDE and languag
 want to challenge yourself and write in Kotlin, you do that. As long as you write an executable program. 
 
 This is going to be console application where you can **convert numbers into roman numerals**.
-You should follow these rules: ...
+You should follow these rules: https://www.hunter.cuny.edu/dolciani/pdf_files/brushup-materials/reading-and-writing-roman-numerals.pdf
 
 You do not need to write clean code, it can be dirty and should only work. In part 3 you will perform the code cleaning.
  
